@@ -121,14 +121,9 @@
 
 <div align="center">
 
-----
-
-<br/>  
-
 ### Show some ❤️ by smashing the star ⭐ with the repositories!
 
 </div>
 
 <br/>  
 
-----
